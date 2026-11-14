@@ -39,7 +39,7 @@ A modern, clean, and responsive UI design crafted with a strong focus on user ex
 ## 🛠️ Tools & Technologies Used
 
 - **UI/UX Design:** Figma / Adobe XD
-- **Frontend Implementation:** HTML5, CSS3, Tailwind CSS, React.js / Next.js *(যেগুলো ব্যবহার করেছেন সেগুলো রাখুন)*
+- **Frontend Implementation:** HTML5, CSS3, Tailwind CSS, React.js / Next.js 
 - **Icons & Assets:** Lucide Icons / Heroicons / Unsplash
 
 ---
