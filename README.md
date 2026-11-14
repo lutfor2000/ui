@@ -1,4 +1,4 @@
-# 🎨 [Project Name] — UI/UX Design
+# 🎨 UI/UX Design
 
 A modern, clean, and responsive UI design crafted with a strong focus on user experience, visual hierarchy, and accessibility.
 
@@ -8,7 +8,6 @@ A modern, clean, and responsive UI design crafted with a strong focus on user ex
 
 ## 📸 Preview
 
-![Project Preview](https://via.placeholder.com/1000x500?text=Add+Your+UI+Screenshot+Here)
 
 ---
 
@@ -55,15 +54,4 @@ A modern, clean, and responsive UI design crafted with a strong focus on user ex
 
 ---
 
-## 🚀 Getting Started (If Coded)
 
-```bash
-# Clone the repository
-git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
-
-# Navigate to the project directory
-cd project-name
-
-# Install dependencies & run
-npm install
-npm run dev
