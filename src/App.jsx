@@ -1,15 +1,23 @@
-import {Button,Badge,Card} from "./ui"
+import {Page,Button,Badge,Card,Checkbox,Input,Row,Stack} from "./ui"
 
 
 function App() {
 
   return (
-    <div>
-       <h1 className="text-red-400">Welcome to Home Page </h1>
-       <Badge children="Bangladesh" tone="green"/>
-       <Button children="Submit" />
-       <Card  children="Bangladesh"/>
-    </div>
+   <Page>
+      <Stack>
+
+          <Card>One Card</Card>
+
+          <Row>
+            <Input placeholder="Enter Task"/>
+            <Button children="Submit"/>
+          </Row>
+
+          <Checkbox label="Checked Information"/>
+
+      </Stack>
+   </Page>
   )
 
 }
